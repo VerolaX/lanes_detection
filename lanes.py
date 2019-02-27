@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-# import matplotlib.pyplot as plt
 
 # truncate out a portion of lines detected by Hough Transform
 def make_coordinate(image, line_parameters):
